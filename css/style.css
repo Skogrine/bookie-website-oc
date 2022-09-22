@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
 * {
   font-family: 'Raleway', sans-serif;
   box-sizing: border-box;
@@ -40,7 +42,7 @@ ul.menu {
 ul.menu:hover {
   font-weight: 500;
 }
-
+/*ul.menu li*/
 li.hebergements,
 li.activites {
   width: 200px;
