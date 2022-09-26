@@ -43,8 +43,7 @@ ul.menu:hover {
   font-weight: 500;
 }
 /*ul.menu li*/
-li.hebergements,
-li.activites {
+ul.menu li {
   width: 200px;
   text-align: center;
   padding-top: 40px;
